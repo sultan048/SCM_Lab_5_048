@@ -1,6 +1,2 @@
-My fsc subjects:
-
-1. eng
-2. phy
-3. che
-4. math
+cout<<"My name is Afaq"<<endl;
+cout<<"My roll number is 2023-SET-999"<<endl;
