@@ -2,3 +2,4 @@ cout<<"My name is afaq"<<endl;
 cout<<"My roll number is 2023-SET-000"<<endl;
 
 cout<<"The sum of the two numbers is"<<a+b<<endl;
+cout<<"the difference of the two numbers is:"<<a-b<<endl;;;
