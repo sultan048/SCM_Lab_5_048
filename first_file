@@ -1,25 +1,2 @@
-This is my main file where I have added my subjects of FSC, 1st semester & 2nd semester. Congratualations!!
-Now, I have added the features in my file. 
-Congratualtions! now I have added the model capacbilities in my overall application developement 
-cout<<"My name is Afaq"<<endl;
-cout<<"My roll number is 2023-SET-999"<<endl;
-
-
-fsc subjects:
-
-1. math
-2. phy
-3. chemistry
-
-1st semester:
-1. ict
-2.prog
-3. physics
-4. environment
-
-
-2nd semester:
-1. scm
-2. ds
-3. oop
-4. software dev
+cout<<"My name is afaq"<<endl;
+cout<<"My roll number is 2023-SET-000"<<endl;
