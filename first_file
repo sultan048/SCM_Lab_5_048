@@ -7,7 +7,10 @@ i do not understand how to merge
 cout<<"the difference of the two numbers is:"<<a-b<<endl;;;
 
 issue resolved finally.
-i am confused on how to simulate a conflict issue and trying to recreate another mergeing issue
+
+i am confused on how to simulate a conflict issue and creating another issue from 2nd_branch. I have successfully recreated the merging issue and am able to resolve
+the issue and merge it
+
 cout<<"the product is:"<<a*b<<endl;
 cout<<"the remainder is:"<<endl;;
 
