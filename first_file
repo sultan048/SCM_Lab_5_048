@@ -12,7 +12,8 @@ i am confused on how to simulate a conflict issue and creating another issue fro
 the issue and merge it
 
 cout<<"the product is:"<<a*b<<endl;
-cout<<"the remainder is:"<<endl;;
+cout<<"the remainder is:"<<endl;; Hello. a change is made
+
 
 i am from multan: 2nd branch
 
