@@ -1,4 +1,5 @@
-cout<<"My name is afaq"<<endl;
+cout<<"My name is ahmad"<<endl;
+i live in lahore
 cout<<"My roll number is 2023-SET-000"<<endl;
 
 cout<<"The sum of the two numbers is"<<a+b<<endl;
