@@ -6,7 +6,7 @@ cout<<"The sum of the two numbers is"<<a+b<<endl;
 i do not understand how to merge
 cout<<"the difference of the two numbers is:"<<a-b<<endl;;;
 
-added some changes to reflect github merge issues.
+added some changes to reflect github merge issues. point 2
 i am confused on how to simulate a conflict issue
 cout<<"the product is:"<<a*b<<endl;
 cout<<"the remainder is:"<<endl;;
