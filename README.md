@@ -1,2 +1,2 @@
 # SCM
-my new config course repo
+Purpose: To understand the various aspects of GitHub.
