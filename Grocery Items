@@ -7,3 +7,4 @@ lays
 gala
 
 danedar
+cout<<"the addition of two numbers"<<a+b;
