@@ -8,6 +8,9 @@ gala
 
 danedar
 
+cout<<"the addition of two numbers"<<a+b;
+=======
+
 cout<<"The addition of two numbers"<< a+b <<endl;
 
 
