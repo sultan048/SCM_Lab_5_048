@@ -1,6 +1,9 @@
 This file is created to practice Lab 5.
 
 
+cout<<"Malaika Tanveer Iqbal"<<endl;
+cout<<"23-SET-049";
+
 cout<<"Maryam Amjad";
 cout<<"23-st-021";
 
@@ -13,4 +16,3 @@ cout<<"Mubashir Hanif"<<"23-SET 046"<<"Software engineering technology"<<endl
 
 cout << "Muhammad Ibrar";
 cout << "23-set 047"
-
