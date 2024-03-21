@@ -37,7 +37,14 @@ Hello. I am adding keys.
 My name is afaq ahmad
 
 
+
+cout<<"Mubashir Hanif"<<"23-SET 046"<<"Software engineering technology"<<endl;
+
+
+
 cout<<"roll o"<<23st017<<endl;
 cout<<"Name:"<<Muhammad Khubaib"<<endl; 
 
+
 cout<<"Muhammad Yousaf:<<Roll no: SET 050"<<endl;
+
