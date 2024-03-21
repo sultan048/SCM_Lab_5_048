@@ -67,6 +67,12 @@ Hello. I am adding keys.
 My name is afaq ahmad
 
 
+----------------------------
+cout<<"My name is sultan and My rool number is 048"<<endl;
+cout <<"addition of to number"<<a+b;
+=======
+
+
 
 cout<<"Mubashir Hanif"<<"23-SET 046"<<"Software engineering technology"<<endl;
 
@@ -77,4 +83,3 @@ cout<<"Name:"<<Muhammad Khubaib"<<endl;
 
 
 cout<<"Muhammad Yousaf:<<Roll no: SET 050"<<endl;
-
