@@ -21,6 +21,10 @@ bananas
 new fruit:
 mango & peach
 
+cout<<"faizan Ahmed"<<endl;
+cout<<23-st-043<<endl;
+
+
 My name is Muhammad Hassan
 My roll no. is 23-st-044
 
@@ -45,4 +49,3 @@ Roll No:010
 
 cout<<"Sohail Maqsood";
 cout<<"23-SET-014";
-
