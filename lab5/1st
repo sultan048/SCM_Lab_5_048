@@ -25,6 +25,10 @@ mango & peach
 
 
 
+cout<<"My name is"<<"Abdul Kabir"<<endl;
+cout<<"My Roll NO is"<<"23-SET-023"<<endl;
+
+
 cout<<"Muhammad Umair Butt";
 cout<<"23-ST-039";
 
