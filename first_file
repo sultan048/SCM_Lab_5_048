@@ -1,9 +1,91 @@
-cout<<"My name is afaq"<<endl;
-cout<<"My roll number is 2023-SET-000"<<endl;
+
+Haseeb Ul Hassan
+
+
+i live in lahore
+cout<<"My roll number is 2023-SET-008"<<endl;
+=======
+
+Huraira Amir Khan
+
+
+i live in lahore
+cout<<"My roll number is 2023-SET-024"<<endl;
+=======
+
+Muhammad Saad Kamboh
+
+
+i live in lahore
+cout<<"My roll number is 2023-SET-035"<<endl;
+
+
+Atta ur Rehman Hanzla
+
+
+i live in lahore
+cout<<"My roll number is 2023-SET-018"<<endl;
+
+
+Muhammad Shumail
+
+
+i live in lahore
+cout<<"My roll number is 2023-SET-032"<<endl;
+
+
+Muhammad Waleede Zaman
+
+
+i live in lahore
+cout<<"My roll number is 2023-SET-001"<<endl;
+
+
+
 
 cout<<"The sum of the two numbers is"<<a+b<<endl;
+i do not understand how to merge
 cout<<"the difference of the two numbers is:"<<a-b<<endl;;;
+
+issue resolved finally.
+
+i am confused on how to simulate a conflict issue and creating another issue from 2nd_branch. I have successfully recreated the merging issue and am able to resolve
+the issue and merge it
+
 cout<<"the product is:"<<a*b<<endl;
+
 cout<<"the remainder is:"<<endl;;
 
 adding a file in 'first_file' from Git and creating a Pull request to submit it
+=======
+
+cout<<"the remainder is:"<<endl;; Hello. a change is made. Another change is made from 2nd_branch
+
+
+
+i am from multan: 2nd branch
+
+
+actually this persion is from karachi
+------------------------
+cout<<"My Name Is husnain Faisal "<< "Roll Number is : 23-SET-042"<<:"the addition for these two numbers are:"<< a+b <<endl;
+
+Hello. I am adding keys.
+My name is afaq ahmad
+
+
+----------------------------
+cout<<"My name is sultan and My rool number is 048"<<endl;
+cout <<"addition of to number"<<a+b;
+
+
+
+cout<<"Mubashir Hanif"<<"23-SET 046"<<"Software engineering technology"<<endl;
+
+
+
+cout<<"roll o"<<23st017<<endl;
+cout<<"Name:"<<Muhammad Khubaib"<<endl; 
+
+
+cout<<"Muhammad Yousaf:<<Roll no: SET 050"<<endl;
