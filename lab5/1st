@@ -24,6 +24,9 @@ new fruit:
 mango & peach
 
 
+cout<<"Muhammad Bilal Saleem"<<endl;
+cout<<"23-SET-016"<<endl;
+
 
 cout<<"My name is"<<"Abdul Kabir"<<endl;
 cout<<"My Roll NO is"<<"23-SET-023"<<endl;
@@ -40,6 +43,8 @@ cout<<23-st-043<<endl;
 My name is Muhammad Hassan
 My roll no. is 23-st-044
 
+My name is jawad Ahmad
+My Roll NO is 23-st-007
 
 
 my name is muhammad taha feroz
@@ -61,3 +66,7 @@ Roll No:010
 
 cout<<"Sohail Maqsood";
 cout<<"23-SET-014";
+
+
+cout<<"Muhammad Zaid Riaz";
+cout<<"23-st041";

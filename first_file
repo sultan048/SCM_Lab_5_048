@@ -54,6 +54,11 @@ the issue and merge it
 
 cout<<"the product is:"<<a*b<<endl;
 
+cout<<"the remainder is:"<<endl;;
+
+adding a file in 'first_file' from Git and creating a Pull request to submit it
+=======
+
 cout<<"the remainder is:"<<endl;; Hello. a change is made. Another change is made from 2nd_branch
 
 
@@ -62,6 +67,8 @@ i am from multan: 2nd branch
 
 
 actually this persion is from karachi
+------------------------
+cout<<"My Name Is husnain Faisal "<< "Roll Number is : 23-SET-042"<<:"the addition for these two numbers are:"<< a+b <<endl;
 
 Hello. I am adding keys.
 My name is afaq ahmad
@@ -70,7 +77,6 @@ My name is afaq ahmad
 ----------------------------
 cout<<"My name is sultan and My rool number is 048"<<endl;
 cout <<"addition of to number"<<a+b;
-=======
 
 
 
